@@ -1,0 +1,191 @@
+body {
+    background-image: url(HintergrundBild.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#Headline {
+    text-align: center;
+    background-color: rgba(255, 0, 119, 0.637);
+    font-family: FROZBITE;
+    font-size: 28pt;
+
+    padding: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-left: auto;
+    padding-right: auto;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+    border-radius: 10px;
+}
+.Title{
+    color: honeydew;
+    font-size: 50pt;
+    font-weight: bold;
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-width: 5px;
+    border-color: rgb(255, 81, 0);
+    border-style: solid;
+    background-color:rgba(255, 81, 0, 0.637);
+
+    margin-top: 30px;
+}
+.Skriptenlinks {
+    text-align: center;
+    background-color: rgba(255, 0, 119, 0.637);
+    font-size: 16pt;
+
+    padding: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-left: auto;
+    padding-right: auto;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+    border-radius: 10px;
+
+}
+.zurückZurStarseite{
+    color: aqua;
+    background-color: rgba(255, 255, 255, 0.432);
+    font-size: 20pt;
+
+    margin-right: 80%;
+    padding: 20px;
+    margin-top: 30px;
+    border-width: 5px;
+    border-color: rgba(255, 255, 255, 0.897);
+    border-style: solid;
+}
+.Skriptenlink {     
+    text-decoration: none;
+    color: chartreuse;
+}
+a:hover {
+    text-decoration: underline;
+}
+#startBox {
+    display: flex;
+
+    background-color: rgba(255, 0, 119, 0.637);
+    padding: 30px;
+    border-radius: 10px; 
+
+    justify-content: space-around;
+    align-items: center;
+}
+#Scripten {
+    width: 500px;
+    margin-right: 25%;
+    margin-right: 40px;
+    margin-left: 40px;
+    color: white;
+    text-align: center;
+    font-size: 22pt;
+
+    margin: 50px;
+
+    border-width: 5px;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: darkslategrey;
+}
+#Infos {
+    color: white;
+    text-align: center;
+    font-size: 30pt;
+
+    padding: 30px;
+    padding-bottom: 18%;
+    padding-top: 18%;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-width: 5px;
+    border-radius: 7px;
+    border-style: solid;
+    border-color: darkslategrey;
+
+    background-image: url("../Style/IMG_8497.PNG");
+    background-size: cover;
+}
+#infos {
+    text-decoration: none;
+    color: rgb(255, 0, 0);
+}
+#wrapper {
+    margin: 30px;
+}
+img {
+    width: 300px;
+}
+#liebllingssachen {
+    display: flex;
+    justify-content: space-around;
+
+    color: white;
+
+    text-align: center;
+    background-color: rgba(255, 0, 119, 0.637);
+    font-size: 16pt;
+}
+#hobbys {
+    text-align: left;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#Lieblingsfilm {
+    height: 300px;
+    width: 210px;
+}
+.Element {
+    text-align: center;
+    background-color: rgba(255, 0, 119, 0.637);
+    font-size: 16pt;
+
+    padding: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-left: auto;
+    padding-right: auto;
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+    border-radius: 10px;
+}
+#SteckbriefFotoundKontakt{
+    display: flex;
+    justify-content: space-around;
+}
+#Kontakt {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+}
