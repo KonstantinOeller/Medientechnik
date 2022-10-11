@@ -1,0 +1,34 @@
+body {
+    background-color: #006666;
+    font-family: Copperplate Gothic Light;
+    text-align: center;
+}
+h1, h2 {
+    text-align: center;
+}
+p{
+    text-align: center;
+    font-size: small;
+}
+hr {
+    color: black;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+}
+.tempMin {
+    color: #9999ff;
+}
+.tempMax {
+    color: #ff3333;
+}
+.schauer {
+    color: darkblue;
+}
+.wolkig {
+    color: #bbb;
+}
+.sonnig {
+    color: yellow;
+}
